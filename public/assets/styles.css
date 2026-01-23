@@ -1,0 +1,126 @@
+.machine-learning-models {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+.machine-learning-models h1, 
+.machine-learning-models h2, 
+.machine-learning-models h3 {
+  font-weight: bold;
+  color: #444;
+}
+
+.machine-learning-models h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.machine-learning-models h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.machine-learning-models h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.machine-learning-models code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.machine-learning-models table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.machine-learning-models table th, 
+.machine-learning-models table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.machine-learning-models table th {
+  background-color: #f0f0f0;
+}
+
+.machine-learning-models table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.machine-learning-models a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+.machine-learning-models a:hover {
+  color: #23527c;
+}
+
+.machine-learning-models button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.machine-learning-models button:hover {
+  background-color: #3e8e41;
+}
+
+.machine-learning-models button:active {
+  background-color: #2f6f3f;
+}
+
+#header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+#header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#header li {
+  margin-right: 20px;
+}
+
+#header a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#header a:hover {
+  color: #ccc;
+}
+
+#content {
+  padding: 20px;
+}
+
+#content h1 {
+  margin-bottom: 10px;
+}
+
+#content p {
+  margin-bottom: 20px;
+}
